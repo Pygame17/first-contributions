@@ -2,7 +2,6 @@
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
-- [Profile-one](https://github.com/profile-one)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Md Khalid Hasan Ansari]
